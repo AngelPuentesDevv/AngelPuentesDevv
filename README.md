@@ -19,3 +19,9 @@ I am currently a student of Software Engineering, AI Engineering, Data Analysis,
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=bn74oesxvu0mmj70vu5sdy4h0&count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
