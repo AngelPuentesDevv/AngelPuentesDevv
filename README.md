@@ -17,9 +17,4 @@ I am currently a student of Software Engineering, AI Engineering, Data Analysis,
 </picture>
 
 <br>
-<br>
-<div align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bn74oesxvu0mmj70vu5sdy4h0&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
